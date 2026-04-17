@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://jjgociynthbfobvfosol.supabase.co/functions/v1/get-script/f37fb311-c9d3-ceb2-6f3b-89580ddc9194.lua"))()
+loadstring(game:HttpGet("https://jjgociynthbfobvfosol.supabase.co/functions/v1/luarmor/files/v4/loaders/85628ad2ada18324df226054b5a030d7.lua"))()
